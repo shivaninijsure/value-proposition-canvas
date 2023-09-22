@@ -1,0 +1,129 @@
+
+.circle-outer {
+    position: relative;
+    padding: 0;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    list-style: none;
+    overflow: hidden;
+  }
+  
+  .circle {
+    position: absolute;
+    border: 1px solid black;
+    padding: 0;
+    width: 550px;
+    height: 550px;
+    border-radius: 50%;
+    list-style: none;
+    overflow: hidden;
+    left: -70px;
+    top: -95px;
+    margin: 1em auto;
+  }
+  
+  li .background {
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+    height: 50%;
+    transform-origin: 0% 100%;
+    border-style: solid;
+    border-width: thin;
+    border-color: #009140;
+  }
+  
+  .content {
+    position: absolute;
+    z-index: 30;
+    text-align: center;
+    width: 200px;
+  }
+  
+  .content  {
+    font-size: 15px;
+    color: #009140;
+  }
+
+  .icon {
+    font-size: 25px;
+    color: #009140;
+  }
+  
+  .Pro.content.first {
+    transform: rotate(180deg) skewY(180deg);
+    left: 20%;
+    top: 27%;
+    text-align: -webkit-center;
+  }
+  
+  .Pro.content.second {
+    right: 15%;
+    top: 45%;
+    transform: rotate(180deg) skewY(180deg);
+    text-align: -webkit-center;
+  }
+  
+  .Pro.content.third {
+    bottom: 27%;
+    left: 20%;
+    transform: rotate(180deg) skewY(180deg);
+    text-align: -webkit-center;
+  }
+  
+  li:first-child .background {
+    transform: rotate(25deg) skewY(30deg);
+  }
+  
+  li:nth-child(2) .background {
+    transform: rotate(142deg) skewY(40deg);
+  }
+  
+  li:nth-child(3) .background {
+    transform: rotate(270deg) skewY(30deg);
+  }
+  
+  li:first-child .background {
+    background: #EDF9EC;
+  }
+  
+  li:nth-child(2) .background {
+    background: #EDF9EC;
+  }
+  
+  li:nth-child(3) .background {
+    background: #EDF9EC;
+  }
+
+  p{
+    color:#009140;
+    font-weight: bold;
+    width: 100px;
+    margin-bottom: 0px;
+  }
+
+  .Cards{
+    background-color: #FDEE73;
+    height: 120px;
+    width: 150px;
+    transform: rotate(5deg) skewY(0deg);
+    box-shadow: 3px 4px 6px #9E9E9E;
+  }
+
+  .thirdCard{
+    margin-top: -25px;
+    margin-left: 10px;
+  }
+
+  .secondCard{
+    margin-right: 30px;
+    margin-bottom: -30px;
+  }
+
+  .firstCard{
+    margin-bottom: -1px;
+    margin-left: 12px;
+  }
