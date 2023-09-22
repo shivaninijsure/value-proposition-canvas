@@ -17,3 +17,10 @@ Screenshots
 
 <img width="1512" alt="Step 1" src="https://github.com/shivaninijsure/value-proposition-canvas/assets/145787119/dd6b6861-4068-4b03-ad70-f6f7ce5d3921">
 <img width="1512" alt="Step 2" src="https://github.com/shivaninijsure/value-proposition-canvas/assets/145787119/707462e9-56a1-421d-8313-d18a35bc923d">
+<img width="1512" alt="Step 3" src="https://github.com/shivaninijsure/value-proposition-canvas/assets/145787119/346b2b15-3923-4f13-8c02-d10b2a8d6fef">
+<img width="1512" alt="Step 4" src="https://github.com/shivaninijsure/value-proposition-canvas/assets/145787119/88731e08-41f6-4a6e-9ea2-45e25664554f">
+<img width="1512" alt="Step 5" src="https://github.com/shivaninijsure/value-proposition-canvas/assets/145787119/d712f104-a019-4396-a02a-6abb8d601ded">
+<img width="1512" alt="Step 6" src="https://github.com/shivaninijsure/value-proposition-canvas/assets/145787119/77d2997d-b11e-4699-9e57-6e618088b3ca">
+
+
+
