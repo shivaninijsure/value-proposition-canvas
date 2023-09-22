@@ -16,3 +16,4 @@ Although not created as part of this exercise, the value proposition will be the
 Screenshots
 
 <img width="1512" alt="Step 1" src="https://github.com/shivaninijsure/value-proposition-canvas/assets/145787119/dd6b6861-4068-4b03-ad70-f6f7ce5d3921">
+<img width="1512" alt="Step 2" src="https://github.com/shivaninijsure/value-proposition-canvas/assets/145787119/707462e9-56a1-421d-8313-d18a35bc923d">
